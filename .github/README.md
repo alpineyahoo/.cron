@@ -5,8 +5,8 @@ crontab に目覚ましと就寝用アラームを設定して
 ## インストール
 
 ```shell
-cd ~
-git clone https://github.com/alpineyahoo/.cron.git
+$ cd ~
+$ git clone https://github.com/alpineyahoo/.cron.git
 ```
 
 ## crontab setting
