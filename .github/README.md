@@ -10,4 +10,4 @@ $ git clone https://github.com/alpineyahoo/.cron.git
 ```
 
 ## crontab setting
-[コチラ](https://note.com/alpineyahoo/n/n89b304518124)に書きました :)
+[コチラ](https://note.com/alpineyahoo/n/n89b304518124) に書きました :)
