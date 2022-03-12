@@ -8,3 +8,6 @@ crontab に目覚ましと就寝用アラームを設定して
 cd ~
 git clone https://github.com/alpineyahoo/.cron.git
 ```
+
+## crontab setting
+[コチラ](https://note.com/alpineyahoo/n/n89b304518124){:target="_blank"}に書きました :)
