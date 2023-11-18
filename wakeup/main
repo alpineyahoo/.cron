@@ -1,4 +1,5 @@
 #!/usr/bin/env zsh
 
-cd ~/.cron/wakeup/
+# cd ~/.cron/wakeup/
+cd $(dirname $0)
 ./cronranch & ./dialog
